@@ -151,3 +151,8 @@ h2{
     border: 3px dotted RGB(65,31,9);
     color: RGB(65,31,9);
 }
+
+.btn {
+    background-color: red;
+    color: white;
+}
